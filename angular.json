@@ -121,6 +121,5 @@
         }
       }
     }
-  },
-  "defaultProject": "routing-scss-material"
+  }
 }
