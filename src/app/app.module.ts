@@ -3,7 +3,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 //
 import { CustomMaterialModule } from './shared/custom-material.module';
-import { FlexLayoutModule } from '@angular/flex-layout';
 //
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -25,8 +24,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    CustomMaterialModule,
-    FlexLayoutModule,
+    CustomMaterialModule
   ],
   providers: [],
   bootstrap: [AppComponent],
