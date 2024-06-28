@@ -5,6 +5,7 @@ This project was initially generated with [Angular CLI](https://github.com/angul
 ## Updates
 
 *  August 2022 - upgraded to Angular 14
+*  June 2024 - upgraded to Angular 18
 
 ## Development server
 
