@@ -1,4 +1,4 @@
-# RoutingScssMaterial
+# Angular Routing using SCSS and Angular Material
 
 This project was initially generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0 and then subsequently upgraded.
 ## Tools Used
