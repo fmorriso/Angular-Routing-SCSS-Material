@@ -1,18 +1,27 @@
 # Angular Routing using SCSS and Angular Material
+An Angular project that uses routing, SCSS and Angular/Material
 
-This project was initially generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0 and then subsequently upgraded.
 ## Tools Used
-* Angular
-* Angular Material
-* SCSS
-* VSCode
-* WebStorm
+
+| Tool             |  Version |
+|:-----------------|---------:|
+| @Angular/CLI     |   19.2.6 |
+| Angular          |   19.2.6 |
+| Angular/Material |   19.2.8 |
+| node             |  22.14.0 |
+| npm              |   11.2.0 |
+| WebStorm         | 2024.3.5 |
+| VSCode           |   1.99.0 |
+
 ## Updates
 
-*  August 2022 - upgraded to Angular 14
-*  June 2024 - upgraded to Angular 18.0
-*  July 2024 - upgraded to Angular 18.1
-*  August 2024 - upgraded to Angular 18.1.3
+| Date    | Description              |
+|:--------|:-------------------------|
+| 2022-08 | Initial creation         |
+| 2024-06 | upgraded to Angular 18.0 |
+| 2024-07 | upgraded to Angular 18.1 |
+| 2024-08 |  upgraded to Angular 18.1.3                         |
+
 
 ## Development server
 
