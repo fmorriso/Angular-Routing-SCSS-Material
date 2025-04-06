@@ -6,7 +6,7 @@ An Angular project that uses routing, SCSS and Angular/Material
 | Tool             |  Version |
 |:-----------------|---------:|
 | @Angular/CLI     |   19.2.6 |
-| Angular          |   19.2.6 |
+| Angular          |   19.2.5 |
 | Angular/Material |   19.2.8 |
 | node             |  22.14.0 |
 | npm              |   11.2.0 |
@@ -15,13 +15,13 @@ An Angular project that uses routing, SCSS and Angular/Material
 
 ## Updates
 
-| Date    | Description              |
-|:--------|:-------------------------|
-| 2022-08 | Initial creation         |
-| 2024-06 | upgraded to Angular 18.0 |
-| 2024-07 | upgraded to Angular 18.1 |
-| 2024-08 |  upgraded to Angular 18.1.3                         |
-
+| Date       | Description                                         |
+|:-----------|:----------------------------------------------------|
+| 2022-08    | Initial creation                                    |
+| 2024-06    | upgraded to Angular 18.0                            |
+| 2024-07    | upgraded to Angular 18.1                            |
+| 2024-08    | upgraded to Angular 18.1.3                          |
+| 2025-04-06 | upgraded to Angular 19.2.5, Angular/Material 19.2.8 |
 
 ## Development server
 
