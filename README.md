@@ -9,7 +9,7 @@ An Angular project that uses routing, SCSS and Angular/Material
 | Angular          |   19.2.7 |
 | Angular/Material |  19.2.10 |
 | node             |  22.14.0 |
-| npm              |   11.2.0 |
+| npm              |   11.3.0 |
 | WebStorm         | 2025.1.0 |
 | VSCode           |   1.99.0 |
 
