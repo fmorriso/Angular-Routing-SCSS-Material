@@ -15,13 +15,14 @@ An Angular project that uses routing, SCSS and Angular/Material
 
 ## Updates
 
-| Date       | Description                                         |
-|:-----------|:----------------------------------------------------|
-| 2022-08    | Initial creation                                    |
-| 2024-06    | upgraded to Angular 18.0                            |
-| 2024-07    | upgraded to Angular 18.1                            |
-| 2024-08    | upgraded to Angular 18.1.3                          |
-| 2025-04-06 | upgraded to Angular 19.2.5, Angular/Material 19.2.8 |
+| Date       | Description                                            |
+|:-----------|:-------------------------------------------------------|
+| 2022-08    | Initial creation                                       |
+| 2024-06    | upgraded to Angular 18.0                               |
+| 2024-07    | upgraded to Angular 18.1                               |
+| 2024-08    | upgraded to Angular 18.1.3                             |
+| 2025-04-06 | upgraded to Angular 19.2.5, Angular/Material 19.2.8    |
+| 2-25-04-17 | upgrade to Angular 19.2.7 and Angular/Material 19.2.10 |
 
 
 ## Development server
