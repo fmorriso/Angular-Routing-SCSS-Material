@@ -5,13 +5,13 @@ An Angular project that uses routing, SCSS and Angular/Material
 
 | Tool             |  Version |
 |:-----------------|---------:|
-| @Angular/CLI     |  19.2.11 |
-| Angular          |  19.2.10 |
-| Angular/Material |  19.2.15 |
+| @Angular/CLI     |  19.2.13 |
+| Angular          |  19.2.12 |
+| Angular/Material |  19.2.17 |
 | node             |  22.14.0 |
-| npm              |   11.3.0 |
+| npm              |   11.4.0 |
 | WebStorm         | 2025.1.1 |
-| VSCode           |   1.99.0 |
+| VSCode           |  1.100.2 |
 
 ## Updates
 
@@ -24,7 +24,14 @@ An Angular project that uses routing, SCSS and Angular/Material
 | 2025-04-06 | upgraded to Angular 19.2.5, Angular/Material 19.2.8     |
 | 2025-04-17 | upgrade to Angular 19.2.7 and Angular/Material 19.2.10  |
 | 2025-05-08 | upgrade to Angular 19.2.10 and Angular/Material 19.2.15 |
+| 2025-05-21 | upgrade to Angular 19.2.12 and Angular/Material 19.2.17 | 
 
+## References
+
+* [Angular](https://angular.dev/overview)
+* [Angular Material](https://material.angular.io/)
+* [Bootstrap](https://getbootstrap.com/)
+* [ng-bootstrap](https://ng-bootstrap.github.io/#/home)
 
 ## Development server
 
